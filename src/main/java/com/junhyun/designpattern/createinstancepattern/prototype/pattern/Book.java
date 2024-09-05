@@ -1,4 +1,4 @@
-package com.junhyun.designpattern.prototype.pattern;
+package com.junhyun.designpattern.createinstancepattern.prototype.pattern;
 
 public class Book {
     private String author;

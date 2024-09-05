@@ -1,4 +1,4 @@
-package com.junhyun.designpattern.singleton;
+package com.junhyun.designpattern.createinstancepattern.singleton;
 
 public class ConnectionPool {
     private static ConnectionPool instance;

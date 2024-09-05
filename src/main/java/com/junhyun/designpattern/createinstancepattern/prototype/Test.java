@@ -1,7 +1,7 @@
-package com.junhyun.designpattern.prototype;
+package com.junhyun.designpattern.createinstancepattern.prototype;
 
-import com.junhyun.designpattern.prototype.pattern.Book;
-import com.junhyun.designpattern.prototype.pattern.BookShelf;
+import com.junhyun.designpattern.createinstancepattern.prototype.pattern.Book;
+import com.junhyun.designpattern.createinstancepattern.prototype.pattern.BookShelf;
 
 public class Test {
     public static void main(String[] args) throws CloneNotSupportedException {

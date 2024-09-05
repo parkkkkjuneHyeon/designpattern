@@ -1,4 +1,4 @@
-package com.junhyun.designpattern.prototype.pattern;
+package com.junhyun.designpattern.createinstancepattern.prototype.pattern;
 
 import java.util.ArrayList;
 
